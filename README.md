@@ -21,7 +21,8 @@ You can find step by step installation of my blog software below.
  <li><b>DBHOST</b> is usually the localhost for applications at this scale.</li>
  <li><b>DBUSER</b> is database user - <b>DBPASS</b> is database password which is assigned to <b>DBUSER</b>.</li>
  <li><b>DBNAME</b> is the database name. You can edit this to have a different database name than just <b>blog</b></li>
- </ul>
+</ul>
+<p>Please edit the contact information & email by navigating to *./mail/contact_me.php*</p>
 
 ## Step 4
 ### Upload the oldBlog software to your server.
