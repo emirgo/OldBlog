@@ -27,4 +27,5 @@ You can find step by step installation of my blog software below.
 ### Upload the oldBlog software to your server.
 <p>You can navigate to admin page by visiting <b>/admin</b>
 <br>Your results should be similar to below image. Congrats!</p>
+
 ![result](https://i.gyazo.com/9b4e0968fb252ac3c651f4e0fdc8b0d4.jpg)
