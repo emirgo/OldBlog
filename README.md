@@ -25,3 +25,4 @@ You can find step by step installation of my blog software below.
 
 ## Step 4
 ### Upload the oldBlog software to your server.
+<p>You can navigate to admin page by visiting <b>/admin</b></p>
