@@ -38,8 +38,8 @@
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="site-heading">
             <h1>Welcome.</h1>
-            <span class="subheading">I post about my projects and their process of making.</span>
-            <span class="subheading">Even this blog itself is a project I made.</span>
+            <span class="subheading">You have successfully installed this software.</span>
+            <span class="subheading">Congratulations!</span>
           </div>
         </div>
       </div>
