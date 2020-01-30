@@ -1,7 +1,7 @@
 This software is deprecated and I won't be supporting the development any further. You can find the step by step installation of my blog software below.
 ## Step 1
 ### Create a database with the name of *blog*
-### OR YOU CAN EDIT THE CONFIG FILE (see step 5)
+#### You can also edit the config file (see step 5)
 
 ## Step 2
 ### Create a table and call it *blog_posts*
