@@ -1,5 +1,4 @@
-This software is deprecated and I won't be supporting the development any further. Installation
-You can find step by step installation of my blog software below.
+This software is deprecated and I won't be supporting the development any further. You can find step by step installation of my blog software below.
 ## Step 1
 ### Create a database with the name of *blog*
 ### OR YOU CAN EDIT THE CONFIG FILE (see step 5)
